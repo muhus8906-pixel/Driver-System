@@ -24,4 +24,5 @@ BenchmarkDotNet - замеры скорости
 NUnit - тесты
 
 ### Результаты BenchmarkDotNet:
+<img width="328" height="562" alt="2026-02-05_01-58-51" src="https://github.com/user-attachments/assets/8c740487-5ef0-45d6-ac92-3907fd60214f" />
 
